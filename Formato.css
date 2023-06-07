@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+.Marca { 
+    text-align: left;
+    margin-bottom: 5px;
+    width: 198px;
+    height: 18px;
+    background: rgb(255, 166, 0);
+}
+  
+.disenocalculadora {
+    background-color: blue;
+    width: 200px;
+    height: vh;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px darkblue;
+}
+  
+.teclado input[type="text"] {
+    width: 95%;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.teclado input[type="button"] {
+    width: 32%;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+    
+  
